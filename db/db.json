@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test",
+        "text": "Testing",
+        "id": "e1fb"
+    },
+    {
+        "title": "One more",
+        "text": "testing\n",
+        "id": "e9ae"
+    },
+    {
+        "title": "Next one will be deleted",
+        "text": "not this one but the next",
+        "id": "5634"
     }
 ]
